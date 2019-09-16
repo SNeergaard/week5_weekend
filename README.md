@@ -1,1 +1,1 @@
-# week5_weekend
+# I set up a and orginzed models views and my viewmodel. I set my main activity to access my viewmodel so that when I press the location button it will get weather information form the retrofit and RX java. that information is orginized into two fragments that read the tempiture values from the api and changes the backgrounds and text color depending on what happened.
